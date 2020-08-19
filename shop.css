@@ -1,0 +1,58 @@
+*{margin:0;
+  padding:0}
+
+.container{width:100%;
+           height:555;
+           background:white;}
+.header{background:white; 
+        width:100%; 
+        height:150px;}
+.poza2{padding-left:550px;
+	width:220px;
+	height:190px;}
+.main{width:100%;
+      height:425px;}
+.footer {width:100%;
+         height:23px;
+         background:#white;}
+.footertext{color: #879783;
+	   font-size:10px;
+	   font-family:'Libre Baskerville', serif;
+text-align:center;}
+
+.poza3{width:100%;
+height:425px;}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #c6b694;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {background-color: #c9e3cb;
+  opacity:0.5;}
+table, td, th {text-align: left;}
+td {padding-right:50px;
+padding-left:50px;
+  vertical-align: middle;
+  font-size:18px;
+font-family:'Libre Baskerville', serif;
+color:#72b2aa;
+text-align:justify;}
+span{font-weight:bold;
+text-align:center;}
